@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+openai
+faiss-cpu
+PyMuPDF
+Pillow
+pytesseract
+python-dotenv
+duckduckgo-search
